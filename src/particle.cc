@@ -1,6 +1,3 @@
-#include <cmath>
-#include <raylib.h>
-#include <iostream>
 #include "particle.h"
 
 void Particle::CalculateSpeed() {
